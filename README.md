@@ -2,6 +2,12 @@
 
 An interactive Power BI dashboard designed to analyze sales-related metrics, product costs, selling prices, order-level performance, and city-wise business distribution.
 
+## 📊 Dashboard Preview
+
+![Sales Analysis Dashboard](Sales%20Analysis%20.png)
+
+*Dashboard preview featuring city-wise selling prices, product cost analysis, order-level comparisons, quantity trends, and key business metrics.*
+
 
 ## 📌 Project Overview
 
